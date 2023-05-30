@@ -20,7 +20,7 @@ public class UIController : MonoBehaviour
 
         if (GUI.Button(quitRect, quitTitle))
         {
-            Application.Quit();
+            SceneManager.LoadScene("MainMuen");
         }
     }
 }
