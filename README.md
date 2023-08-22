@@ -10,7 +10,7 @@ BGM：音阙诗听 _ 泠鸢yousa _ 王梓钰 - 还是你的笑容最可爱
 
 技术支持：liliToon
 
-[演示视频]：https://www.bilibili.com/video/BV19o4y1c7Tc/?spm_id_from=333.999.0.0&vd_source=080c716be223832e02883b6a711a83ae
+https://www.bilibili.com/video/BV19o4y1c7Tc/?spm_id_from=333.999.0.0&vd_source=080c716be223832e02883b6a711a83ae[演示视频]
 
 
 Rendered with Unity！
